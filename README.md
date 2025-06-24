@@ -13,6 +13,11 @@ Welcome to my LeetCode journey! This repository contains daily solutions to Leet
 
 ## 🗂️ Problem Index
 
+<!-- RECENT_START -->
+... recent problems will go here ...
+<!-- RECENT_END -->
+
+
 👉 View the full list here: [📘 Problem Index](./INDEX.md)
 
 ---
