@@ -14,7 +14,9 @@ Welcome to my LeetCode journey! This repository contains daily solutions to Leet
 ## 🗂️ Problem Index
 
 <!-- RECENT_START -->
-... recent problems will go here ...
+
+- **Day 1**: [Reverse String](./D1-reverse-string.py)
+
 <!-- RECENT_END -->
 
 
