@@ -15,6 +15,7 @@ Welcome to my LeetCode journey! This repository contains daily solutions to Leet
 
 <!-- RECENT_START -->
 
+- **Day 2**: [Two Sum](./D2-two-sum.py)
 - **Day 1**: [Reverse String](./D1-reverse-string.py)
 
 <!-- RECENT_END -->
